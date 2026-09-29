@@ -1,5 +1,5 @@
 app-title = Správce kontejnerů
-app-comment = Spravujte kontejnery Docker a Podman z prostředí COSMIC™ Desktop
+app-comment = Spravujte Docker a Podman kontejnery z prostředí COSMIC™
 app-keywords = Kontejnery;Docker;Podman;
 loading = Načítání kontejnerů…
 empty = Nenalezeny žádné kontejnery
